@@ -1,0 +1,10 @@
+fileignoreconfig:
+- filename: docker-compose.yml
+  checksum: f2d125ce305b25e3ff44247442514cf5066091a6e00a163faee20355fa79598d
+- filename: src/main/java/BigBasketConsumer.java
+  checksum: ca0d81fed20eefde80e50a1c8254eca1a86d1c266d912d28fda51146cb175b6e
+- filename: src/main/java/FTHConsumer.java
+  checksum: c5a7d62abe636050220c714bcbbc70c304f1259005f5f458659d2b3ab4b90de7
+- filename: src/main/java/RelianceConsumer.java
+  checksum: 7b6e3ae31ad52b1d1de5bffec403cd631606ae652ca24842a1d9808a5a8d21b6
+version: "1.0"
